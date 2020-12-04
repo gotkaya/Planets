@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.exe
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.deps.json
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.runtimeconfig.json
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.dll
+C:\Users\opilane\source\repos\Planetss\Planetss\bin\Debug\netcoreapp3.1\Planetss.pdb
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.dll
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.pdb
+C:\Users\opilane\source\repos\Planetss\Planetss\obj\Debug\netcoreapp3.1\Planetss.genruntimeconfig.cache
